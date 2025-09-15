@@ -1,0 +1,11 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Launch JavaFX App",
+      "request": "launch",
+      "mainClass": "FractalDrawer",
+      "vmArgs": "--module-path \"C:/Users/ethan/Downloads/javafx-sdk-21.0.8/lib\" --add-modules javafx.base,javafx.controls,javafx.fxml,javafx.graphics,javafx.media,javafx.swing,javafx.web"
+    }
+  ],
+}
